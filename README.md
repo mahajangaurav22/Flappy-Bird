@@ -1,4 +1,4 @@
-# Flappy-Bird
+# Flappy Bird: A Python Game Built with Pygame
 
 ## Table of Contents
 
@@ -12,6 +12,7 @@
          
 ## Description
 Flappy Bird is a classic arcade game recreated using Python and Pygame. It provides a nostalgic gaming experience for players of all ages. The game involves navigating a bird through a series of pipes without hitting them. The objective is to achieve the highest score possible.
+<br>
 <br>
 <img width="577" alt="Screenshot 2023-06-03 at 2 44 09 PM" src="https://github.com/mahajangaurav22/Flappy-Bird/assets/77409117/d4fa987b-7ef4-4846-8452-16b501f12e20">
 
